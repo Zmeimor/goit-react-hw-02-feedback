@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SerhiiBrekhov/-goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css",
-    "main.js": "/SerhiiBrekhov/-goit-react-hw-02-feedback.git/static/js/main.c33a0e65.js",
-    "index.html": "/SerhiiBrekhov/-goit-react-hw-02-feedback.git/index.html",
-    "main.7acaea2f.css.map": "/SerhiiBrekhov/-goit-react-hw-02-feedback.git/static/css/main.7acaea2f.css.map",
-    "main.c33a0e65.js.map": "/SerhiiBrekhov/-goit-react-hw-02-feedback.git/static/js/main.c33a0e65.js.map"
+    "main.css": "/Zmeimor/goit-react-hw-02-phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/Zmeimor/goit-react-hw-02-phonebook/static/js/main.c33a0e65.js",
+    "index.html": "/Zmeimor/goit-react-hw-02-phonebook/index.html",
+    "main.7acaea2f.css.map": "/Zmeimor/goit-react-hw-02-phonebook/static/css/main.7acaea2f.css.map",
+    "main.c33a0e65.js.map": "/Zmeimor/goit-react-hw-02-phonebook/static/js/main.c33a0e65.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
